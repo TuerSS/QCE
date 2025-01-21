@@ -28,14 +28,15 @@
 
 QCE is currently **under development**, but we’re inviting you to join the journey early! Stay connected, contribute, and be part of the future of gaming tools.
 
-### **Steps to Get Started**  
-1. Follow the installation guide provided in the [documentation](https://www.tuerss.com/qce).  
-2. Clone the repository and start exploring the advanced features of QCE.  
-3. Stay updated with new releases and share your feedback!
+### **Download**  
+You can download the latest release of QCE here:  
+[Download QCE](https://github.com/TuerSS/QCE/releases/tag/Download)
 
-📌 **Visit the Official Page**:  
-Explore more details here:  
-[https://www.tuerss.com/qce](https://www.tuerss.com/qce)
+---
+
+### **Installation Guide**  
+Follow our detailed installation guide to get started:  
+[How to Download and Install QCE](https://github.com/TuerSS/QCE/blob/main/HowToDownload.md)
 
 ---
 
@@ -56,4 +57,4 @@ Let’s shape the future of QCE together!
 
 ---
 
-### **Quad Cheat Engine — Level Up Your Gaming!**  
+### **Quad Cheat Engine — Level Up Your Gaming!**
